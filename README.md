@@ -8,3 +8,4 @@ Test line.
 Another one.
 
 Final line to add.
+=======
