@@ -6,3 +6,6 @@ This is my first test file using Github and line is my first edit on this README
 Test line.
 
 Another one.
+===
+Final line to add.
+=======
